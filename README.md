@@ -11,7 +11,7 @@
 - You are not allowed to use language library function to solve the problem (especially on sorting the numbers)
 
 ## Problem statement
-Given a list of random unordered numbers, find those numbers that are **divisible by 4 and 5** and return them in **descending order** (largest to smallest).
+Given a list of random unordered numbers, find those numbers that are **divisible by 4 or 5** and return them in **descending order** (largest to smallest).
 
 Example input:
 21, 400, 8, -3, 77, 99, -16, 55, 111, -36, 28
